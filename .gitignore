@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+build/
+dist/
+*.pyc
+*.spec
+test.*
+test_log.*
+.antigravity/

@@ -1,0 +1,9 @@
+customtkinter
+xlsxwriter
+pandas
+pycryptodome
+pypiwin32
+Pillow
+reportlab
+py7zr
+matplotlib
